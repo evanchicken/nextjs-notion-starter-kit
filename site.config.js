@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'ded7802139214e62a0f6aa3996ccbf21',
+  rootNotionPageId: '69300519aa2a465aa70f4f12edd1e3e0',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'onet',
-  domain: 'https://www.notion.so/ded7802139214e62a0f6aa3996ccbf21',
+  name: '说壹话拾',
+  domain: 'https://www.notion.so/69300519aa2a465aa70f4f12edd1e3e0',
   author: 'LEE',
 
   // open graph metadata (optional)
