@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'TransitiveBullsh-it-92a3b5bad902496abe1028273b909680',
+  rootNotionPageId: 'O-Time-92a3b5bad902496abe1028273b909680',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'O Time',
-  domain: 'https://www.notion.so/mrkwong/TransitiveBullsh-it-92a3b5bad902496abe1028273b909680',
+  domain: 'https://www.notion.so/mrkwong/O-Time-92a3b5bad902496abe1028273b909680',
   author: 'Mrkwong',
 
   // open graph metadata (optional)
